@@ -1,10 +1,9 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(†É£¬8ùŸÑÚû1J$d239290a-a81f-4cde-9b6e-7ee49fc03e3f
-r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8üŸÑÚû1J$9ad047ff-cbbf-4651-bb6e-8b993c87df24
-m	java:S106"+Replace this use of System.out by a logger.(ŒñÉã8ıŸÑÚû1J$78e5f55b-b997-4ca5-8dd6-6eae50891608
-r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8şŸÑÚû1J$7baf1484-9a98-465c-9cc3-4648a015efac
-r	java:S106"+Replace this use of System.out by a logger.(òÔğÙúÿÿÿÿ8Æ£ÒÚû1J$dc84c2b0-c16b-4a8b-b887-6d52b6c4ef4e
-r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8È£ÒÚû1J$b4952ff5-4277-4693-80bf-3ab531b97ad9
-r	java:S106!"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8É£ÒÚû1J$7647b1b2-0bf5-45cc-acc1-b7ea71606bc8
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‚ ÑÚû1J$b634f506-3a91-460b-b199-3b7993576bcd
+G	java:S106"+Replace this use of System.out by a logger.(ŒñÉã8£ÿùÚû1
+W	java:S125"<This block of commented-out lines of code should be removed.(ö±¾8¥ÿùÚû1
+L	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8©ÿùÚû1
+L	java:S106 "+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8ªÿùÚû1
+L	java:S106'"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8ªÿùÚû1
+]	java:S125""<This block of commented-out lines of code should be removed.(‡Ìúÿÿÿÿÿ8«ÿùÚû1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¬ÿùÚû1
