@@ -1,6 +1,8 @@
 
-¡
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÝÊåÑøÿÿÿÿ8ôý†Úû1J$3101b48a-1949-4da0-98e2-0614198f725a
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(õÒ…ûÿÿÿÿ8þ†Úû1J$48bf2df3-8952-41be-97af-b6181fca8537
-r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8’ìˆÚû1J$495ab84d-521d-4b5d-9d32-ee09aead00bb
-L	java:S106"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8™ÌÚû1
+m	java:S106"+Replace this use of System.out by a logger.(†É£¬8’ìˆÚû1J$b1252d27-ed20-42d8-9621-719c8d4cd82b
+r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8™ÌÚû1J$0b36ed2c-a8bc-4b78-93cb-14ae8b6dead3
+m	java:S106"+Replace this use of System.out by a logger.(ŒñÉã8õ‘ Úû1J$13c323f2-71f0-4c0b-b729-1aba00bdb9e8
+r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8¼ß Úû1J$697d5558-a61d-43a9-9c4b-9e182ab646ba
+r	java:S106"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8¸­¡Úû1J$7b181856-a6c9-4695-b03f-f07c30f305ce
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ç§¥Úû1
