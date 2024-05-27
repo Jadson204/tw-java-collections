@@ -12,6 +12,7 @@ public class Main {
         List<Pessoa> pessoas = new LinkedList<>();
         pessoas.add(new Pessoa(1, "Treinaweb 1"));
         pessoas.add(new Pessoa(2, "Treinaweb 2"));
+
         System.out.println("Com FOR:");
         for (int i = 0; i < pessoas.size(); i++) {
             Pessoa p = pessoas.get(i);
@@ -23,6 +24,12 @@ public class Main {
             Pessoa p = iteratorPessoa.next();
             System.out.println(p);
         }
+
+        System.out.println("Com FOR-EACH");
+        for (Pessoa p : pessoas) {
+            System.out.println(p);
+        }
+
         System.out.println("FIM!");
     }
 }
