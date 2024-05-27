@@ -1,2 +1,5 @@
 
-k	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿJ$fbd4ab81-2fa8-4aa0-9422-438dbacd2f5d
+¡
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÝÊåÑøÿÿÿÿ8™Ç´Øû1J$5af158c7-98cf-4ad8-bbd4-99872c938799
+G	java:S106"+Replace this use of System.out by a logger.(¹›ÑÂ8¢éÞØû1
