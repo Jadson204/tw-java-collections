@@ -1,9 +1,7 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(ŒñÉã8£ÿùÚû1
-W	java:S125"<This block of commented-out lines of code should be removed.(ö±¾8¥ÿùÚû1
-L	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8©ÿùÚû1
-L	java:S106 "+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8ªÿùÚû1
-L	java:S106'"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8ªÿùÚû1
-]	java:S125""<This block of commented-out lines of code should be removed.(‡Ìúÿÿÿÿÿ8«ÿùÚû1
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¬ÿùÚû1
+G	java:S106"+Replace this use of System.out by a logger.(æ›ÆÌ8â«Œ°‚2
+L	java:S106"+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8å«Œ°‚2
+L	java:S106*"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8ç«Œ°‚2
+W	java:S125"<This block of commented-out lines of code should be removed.(ö±¾8ì«Œ°‚2
+X	java:S125"<This block of commented-out lines of code should be removed.(Ó™ö™8î«Œ°‚2
+]	java:S125%"<This block of commented-out lines of code should be removed.(‡Ìúÿÿÿÿÿ8î«Œ°‚2

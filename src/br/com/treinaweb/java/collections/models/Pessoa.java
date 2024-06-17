@@ -33,4 +33,20 @@ public class Pessoa {
                 ", nome='" + nome + '\'' +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Pessoa pessoa)) return false;
+
+        if (getId() != pessoa.getId()) return false;
+        return getNome() != null ? getNome().equals(pessoa.getNome()) : pessoa.getNome() == null;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = getId();
+        result = 31 * result + (getNome() != null ? getNome().hashCode() : 0);
+        return result;
+    }
 }
