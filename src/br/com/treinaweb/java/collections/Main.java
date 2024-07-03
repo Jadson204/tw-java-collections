@@ -1,5 +1,6 @@
 package br.com.treinaweb.java.collections;
 
+import br.com.treinaweb.java.collections.comparadores.PessoaTamanhoNomeComparator;
 import br.com.treinaweb.java.collections.models.Pessoa;
 
 import java.util.*;
@@ -8,11 +9,11 @@ public class Main {
     public static void main(String[] args) {
         List<Pessoa> pessoas = new LinkedList<>();
         pessoas.add(new Pessoa(3, "Treinaweb 3"));
-        pessoas.add(new Pessoa(1, "Treinaweb 1"));
-        pessoas.add(new Pessoa(2, "Treinaweb 2"));
+        pessoas.add(new Pessoa(1, "Treinawe 1"));
+        pessoas.add(new Pessoa(2, "Treina 2"));
         System.out.println("Antes da Ordenação");
         System.out.println(pessoas);
-        Collections.sort(pessoas);
+        Collections.sort(pessoas, new PessoaTamanhoNomeComparator());
         System.out.println("Depois da Ordenação");
         System.out.println(pessoas);
 
