@@ -1,12 +1,12 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(øÛÛÔşÿÿÿÿ8¦ÍÿÄ‡2
-L	java:S106"+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8§ÍÿÄ‡2
-W	java:S125"<This block of commented-out lines of code should be removed.(—Çˆ8ªÍÿÄ‡2
-L	java:S106 "+Replace this use of System.out by a logger.(Š¢ÃÌùÿÿÿÿ8®ÍÿÄ‡2
-L	java:S106!"+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8¯ÍÿÄ‡2
-L	java:S1069"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8¯ÍÿÄ‡2
-W	java:S125#"<This block of commented-out lines of code should be removed.(ö±¾8°ÍÿÄ‡2
-X	java:S125)"<This block of commented-out lines of code should be removed.(Ó™ö™8°ÍÿÄ‡2
-]	java:S1254"<This block of commented-out lines of code should be removed.(‡Ìúÿÿÿÿÿ8°ÍÿÄ‡2
-ƒ
-java:S1128"gRemove this unused import 'br.com.treinaweb.java.collections.comparadores.PessoaTamanhoNomeComparator'.(Ã©îW8²ÍÿÄ‡2
+r	java:S106"+Replace this use of System.out by a logger.(øÛÛÔşÿÿÿÿ8àï“Ç‡2J$cce8445a-ad74-448f-959d-a54aa48e6a62
+r	java:S106"+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8àï“Ç‡2J$6246791e-c915-49cf-bb77-a23379e18715
+}	java:S125"<This block of commented-out lines of code should be removed.(—Çˆ8âï“Ç‡2J$c9e27a1a-a8ba-42d5-8c95-0b29f27b99b8
+r	java:S106+"+Replace this use of System.out by a logger.(Š¢ÃÌùÿÿÿÿ8ãï“Ç‡2J$99957c20-bffc-40aa-8e81-c539428b3766
+r	java:S106,"+Replace this use of System.out by a logger.(–ò³ˆøÿÿÿÿ8äï“Ç‡2J$a32d5a65-e064-4b9f-be26-0738f082bc62
+r	java:S106D"+Replace this use of System.out by a logger.(øÒûïüÿÿÿÿ8äï“Ç‡2J$bf9df52a-0d03-44f4-bfd2-b6dfd9d3f2fa
+}	java:S125."<This block of commented-out lines of code should be removed.(ö±¾8åï“Ç‡2J$6483732e-31e4-4618-b846-e30a0c96565b
+~	java:S1254"<This block of commented-out lines of code should be removed.(Ó™ö™8æï“Ç‡2J$cc8a4ccd-823b-4f43-b116-93a623431778
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(‡Ìúÿÿÿÿÿ8æï“Ç‡2J$c88357ef-5b27-4b7e-b1bb-53b42bcda882
+©
+java:S1128"gRemove this unused import 'br.com.treinaweb.java.collections.comparadores.PessoaTamanhoNomeComparator'.(Ã©îW8çï“Ç‡2J$b97542e8-8e48-46f4-a3cb-44f556620c04

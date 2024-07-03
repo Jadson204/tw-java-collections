@@ -21,14 +21,25 @@ public class Main {
 //            }
 //            return 1;
 //        });
-        pessoas.sort((o1, o2) -> {
-            if (o1.getNome().length() == o2.getNome().length()) {
-               return 0;
-            } else if (o1.getNome().length() < o2.getNome().length()) {
-                return -1;
-            }
-            return 1;
-        });
+//        pessoas.sort((o1, o2) -> {
+//            if (o1.getNome().length() == o2.getNome().length()) {
+//               return 0;
+//            } else if (o1.getNome().length() < o2.getNome().length()) {
+//                return -1;
+//            }
+//            return 1;
+//        });
+//        pessoas.sort(Comparator.comparingInt(Pessoa::getId));
+//        pessoas.sort(Comparator.comparing(Pessoa::getNome, (o1, o2) -> {
+//            if (o1.length() == o2.length()) {
+//               return 0;
+//            } else if (o1.length() < o2.length()) {
+//                return -1;
+//            }
+//            return 1;
+//        }));
+//        pessoas.sort(Comparator.naturalOrder());
+        pessoas.sort(Comparator.reverseOrder());
         System.out.println("Depois da Ordenação");
         System.out.println(pessoas);
 
