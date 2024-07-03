@@ -13,7 +13,22 @@ public class Main {
         pessoas.add(new Pessoa(2, "Treina 2"));
         System.out.println("Antes da Ordenação");
         System.out.println(pessoas);
-        Collections.sort(pessoas, new PessoaTamanhoNomeComparator());
+//        Collections.sort(pessoas, (o1, o2) -> {
+//            if (o1.getNome().length() == o2.getNome().length()) {
+//                return 0;
+//            } else if (o1.getNome().length() < o2.getNome().length()) {
+//                return -1;
+//            }
+//            return 1;
+//        });
+        pessoas.sort((o1, o2) -> {
+            if (o1.getNome().length() == o2.getNome().length()) {
+               return 0;
+            } else if (o1.getNome().length() < o2.getNome().length()) {
+                return -1;
+            }
+            return 1;
+        });
         System.out.println("Depois da Ordenação");
         System.out.println(pessoas);
 
