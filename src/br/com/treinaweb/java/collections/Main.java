@@ -7,14 +7,13 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         List<Pessoa> pessoas = new LinkedList<>();
+        pessoas.add(new Pessoa(3, "Treinaweb 3"));
         pessoas.add(new Pessoa(1, "Treinaweb 1"));
         pessoas.add(new Pessoa(2, "Treinaweb 2"));
-        pessoas.add(new Pessoa(3, "Treinaweb 3"));
-
-        pessoas.remove(new Pessoa(1, "Treinaweb 1"));
-
-        System.out.println(pessoas.contains(new Pessoa(2, "Treinaweb 2")));
-
+        System.out.println("Antes da Ordenação");
+        System.out.println(pessoas);
+        Collections.sort(pessoas);
+        System.out.println("Depois da Ordenação");
         System.out.println(pessoas);
 
 //        System.out.println("Com FOR:");
