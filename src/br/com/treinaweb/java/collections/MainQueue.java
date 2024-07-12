@@ -13,10 +13,11 @@ public class MainQueue {
         queue.add(new Pessoa(3, "ATreinaweb 3"));
         queue.add(new Pessoa(1, "Treinaweb 1"));
         queue.add(new Pessoa(2, "Treinaweb 2"));
+        queue.offer(new Pessoa(4, "Treinaweb 4"));
         System.out.println(queue);
         while (!queue.isEmpty()) {
             Pessoa p = queue.poll();
-            System.out.println();
+            System.out.println(p);
         }
     }
 }
