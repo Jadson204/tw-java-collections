@@ -5,11 +5,12 @@ import br.com.treinaweb.java.collections.models.Pessoa;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class MainSet2 {
 
     public static void main(String[] args) {
-        Set<Pessoa> pessoas = new LinkedHashSet<>();
+        Set<Pessoa> pessoas = new TreeSet<>();
         System.out.println(pessoas.add(new Pessoa(1, "Treinaweb 1")));
         System.out.println(pessoas);
         System.out.println(pessoas.add(new Pessoa(2, "Treinaweb 2")));
