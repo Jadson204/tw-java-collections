@@ -3,11 +3,13 @@ package br.com.treinaweb.java.collections;
 import br.com.treinaweb.java.collections.models.Pessoa;
 
 import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 public class MainSet2 {
 
     public static void main(String[] args) {
-        HashSet<Pessoa> pessoas = new HashSet<Pessoa>();
+        Set<Pessoa> pessoas = new LinkedHashSet<>();
         System.out.println(pessoas.add(new Pessoa(1, "Treinaweb 1")));
         System.out.println(pessoas);
         System.out.println(pessoas.add(new Pessoa(2, "Treinaweb 2")));
